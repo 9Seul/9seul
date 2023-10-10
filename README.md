@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm GuSeul</h1>
-<p style="margin:15px 0;" align="left"> <img src="https://www.heegublog.com/api/image/GuSeul_git_header_1696949137122.png" alt="9seul" /> </p>
+<p align="left"> <img src="https://www.heegublog.com/api/image/GuSeul_git_header_1696949137122.png" alt="9seul" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9seul&label=Profile%20views&color=0e75b6&style=flat" alt="9seul" /> </p>
 
