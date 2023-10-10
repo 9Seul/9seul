@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gu Seul</h1>
-<h3 align="center">WEBDESIGN X DEVEROPER</h3>
+<h1 align="left">Hi 👋, I'm Gu Seul</h1>
+<h3 align="left">WEBDESIGN X DEVEROPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9seul&label=Profile%20views&color=0e75b6&style=flat" alt="9seul" /> </p>
 
